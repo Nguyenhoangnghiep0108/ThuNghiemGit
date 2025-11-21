@@ -31,8 +31,7 @@ namespace ThuNghiemGit
             int kk;
             int ll;
             int mm;
-
-
+            int hmk;
         }
     }
 }
