@@ -25,7 +25,6 @@ namespace ThuNghiemGit
             Console.WriteLine("BBBccccBBB");
             Console.WriteLine("CCCCCC");
             Console.WriteLine("AAAAAAAAAAccc");
-            Console.WriteLine("New line added in GitHub");
         }
     }
 }
