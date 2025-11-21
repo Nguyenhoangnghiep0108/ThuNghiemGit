@@ -23,6 +23,7 @@ namespace ThuNghiemGit
             Console.WriteLine("A");
             int b = 20;
             Console.WriteLine("BBBccccBBB");
+            Console.WriteLine("CCCCCC");
         }
     }
 }
