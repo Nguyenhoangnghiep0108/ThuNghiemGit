@@ -22,7 +22,7 @@ namespace ThuNghiemGit
             int a = 10;
             Console.WriteLine("A");
             int b = 20;
-            Console.WriteLine("BBB");
+            Console.WriteLine("BBBcccc");
         }
     }
 }
