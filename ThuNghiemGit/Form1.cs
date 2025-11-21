@@ -28,6 +28,7 @@ namespace ThuNghiemGit
             int h;
             int c;
             int z;
+            int kk;
         }
     }
 }
